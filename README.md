@@ -62,21 +62,6 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaheshSiva2605&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshSiva2605&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshSiva2605&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshSiva2605&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
 ---
 
 ### 💬 Quote of the Day
@@ -100,13 +85,6 @@ me.say_hi()
 </table>
 
 ---
-
-### 📈 Live Coding Insights
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaheshSiva2605&theme=tokyonight" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaheshSiva2605&theme=tokyonight&utcOffset=8" />
-</p>
 
 ---
 
