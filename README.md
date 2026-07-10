@@ -92,7 +92,8 @@ me.say_hi()
 <table align="center">
   <tr>
     <td align="center">🤖<br><b>Machine Learning</b><br>fundamentals & models</td>
-    <td align="center">🗄️<br><b>Databases</b><br>SQL / SQLite design</td>
+    <td align="center">🧠<br><b>Deep Learning</b><br>neural networks</td>
+    <td align="center">💬<br><b>LLMs</b><br>large language models</td>
     <td align="center">🔗<br><b>API Testing</b><br>Postman collections</td>
     <td align="center">⚙️<br><b>DSA</b><br>C++ & Java practice</td>
   </tr>
@@ -100,24 +101,19 @@ me.say_hi()
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Live Coding Insights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MaheshSiva2605/MaheshSiva2605/output/github-contribution-grid-snake.svg" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaheshSiva2605&theme=tokyonight" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaheshSiva2605&theme=tokyonight&utcOffset=8" />
 </p>
-
-<!-- 
-  Snake animation needs a one-time GitHub Actions setup — see the note at the bottom of this file.
--->
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mahesh175171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/_mahesh_18?igsh=eHBhd3Roc3BycGEw&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <p align="center"><i>⭐️ Thanks for visiting my profile — feel free to explore my repos and connect!</i></p>
