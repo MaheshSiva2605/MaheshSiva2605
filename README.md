@@ -13,7 +13,6 @@
 <p align="center">
 <p align="center">
   <a href="https://github.com/MaheshSiva2605">
-    <img src="https://komarev.com/ghpvc/?username=MaheshSiva2605&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collabs-blueviolet?style=flat-square" />
